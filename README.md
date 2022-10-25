@@ -17,6 +17,9 @@
   Hello world!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Специалист+информационных+систем)](https://git.io/typing-svg)
+  
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/1EBWoggJVAjVm/giphy.gif" width="150height="100>
@@ -49,3 +52,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IceWolf8&theme=great-gatsby&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IceWolf8)](https://github.com/rompersStomper/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
