@@ -5,7 +5,7 @@
  <a href="https://vk.com/n.zhminka">
   <img src="https://img.shields.io/badge/Вконтаке-black?logo=vk&logoColor=red&style=for-the-badge" alt="Вконтаке Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/watch?v=bI9yIbF7NWw&t=56s">
    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=wihte" alt="Youtube Badge"/>
   </a>
 </div>
@@ -27,9 +27,13 @@
 
 ### :man_technologist: About Me :
 Я разработчик полного стека <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы.
-- :телескоп: Я работаю инженером-программистом и вношу свой вклад в frontend и backend :desktop_computer: для создания веб-приложений.
-- :рассада: Изучение написания технического контента	:abacus:.
+
+- :pineapple: Я работаю инженером-программистом и вношу свой вклад в frontend и backend :desktop_computer: для создания веб-приложений.
+
+- :mango: Изучение написания технического контента	:abacus:.
+
 - :zap: В свободное время я решаю задачи на GeeksforGeeks и читаю технические статьи.
+
 ---
 ### :hammer_and_wrench: Языки и инструменты :
 <div>
