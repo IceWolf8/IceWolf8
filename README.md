@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/LpiA8MVudQO8pitF4c/giphy.gif" width="500"/>
 </div>
 <div id="badges" align="center">
- <a href="your-vk-URL">
+ <a href="https://vk.com/n.zhminka">
   <img src="https://img.shields.io/badge/Вконтаке-black?logo=vk&logoColor=red&style=for-the-badge" alt="Вконтаке Badge"/>
   </a>
   <a href="your-youtube-URL">
